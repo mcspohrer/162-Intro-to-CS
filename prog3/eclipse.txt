@@ -1,0 +1,20 @@
+Gear#1#tent#clean it
+Consumable#12#beer#make 'em cold, buy in portland
+Extra#1#cooler#make sure it is clean
+Consumable#2#ice#put in cooler
+Gear#1#sleeping pad#no notes
+Gear#1#backpack#no note
+Gear#2#hiking boots#waterproof
+Consumable#2#sandwhiches#ham and cheese
+Gear#1#fishing pole#no notes
+Gear#1#tackle box#make sure it's close (unlike last time)
+Extra#1#sunglasses#no notes
+Consumable#4#food bar#clif blueberry, preferably
+Extra#1#camera#empty memory card first
+Extra#1#tripod#make sure the screwy thing is on the top
+Extra#1#box with a hole in it#make it collapsible
+Gear#2#hiking pole#no notes
+Extra#1#doggo#no notes
+Gear#1#dog pack#the green one
+Consumable#1000#dog food#put it in his pack
+Extra#1#dog sunglasses#his eyes need protection too!
